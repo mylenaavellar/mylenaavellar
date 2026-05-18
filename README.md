@@ -17,7 +17,7 @@
 
 * **APOIO Project**: Developing this platform from the ground up, starting with a robust backend infrastructure with plans to build the frontend next. You can check the current architecture and my active contributions in the repository!
   * *Stack:* Java (Spring Boot), PostgreSQL *(Frontend coming soon!)*
-  * [👉 Click here to check out the repository](https://github.com/mylenaavellar/apoio-platform)
+  * Click here to check out the [repository](https://github.com/mylenaavellar/apoio-platform)
 
 * **BIOME (Scholarship)**: Responsible for the full-stack maintenance and enhancement of the institutional platform, working with both backend logic and modern frontend interfaces.
   * *Stack:* Python (Django), React, TypeScript.
@@ -30,7 +30,7 @@
 
 * 💬 Love chatting about tech, innovation, and how digital solutions can actively improve society.
 * 🌐 Fascinated by the endless interdisciplinarity of tech — especially where data, software development, and Architecture & Urbanism meet to shape better environments.
-* 🕸️ **Webmaster Director** at the *IEEE Computer Society UFRN* student chapter.
+* 🕸️ Webmaster Director at the *IEEE Computer Society UFRN* student chapter.
 * <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1f7.svg" width="16" height="16"> Brazilian, currently learning German (aiming for B1) and French.
 * 🐾 Forever dog mom to Magnus ✨
 
