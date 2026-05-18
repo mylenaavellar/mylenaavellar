@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  I'm an Information Technology undergraduate student at UFRN currently working as a Fullstack Software Developer Intern. I also hold a prior degree in Architecture and Urbanism UFCG, which gives me a unique perspective on project structure, organization, and problem-solving.
+  I'm an Information Technology undergraduate student at UFRN currently working as a Fullstack Software Developer Intern. I also hold a prior degree in Architecture and Urbanism, which gives me a unique perspective on project structure, organization, and problem-solving.
 </p>
 
 ---
@@ -36,26 +36,18 @@
 
 ---
 
-### Technologies & Tools
+### Technologies, Tools & Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,django,ts,react,js,postgres,git,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,django,ts,react,js,postgres,git,docker" height="48" />
 </p>
 
----
-
-### GitHub Stats & Languages
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mylenaavellar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mylenaavellar&theme=tokyonight&layout=compact&hide_border=false" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mylenaavellar&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&hide_title=true" height="120" />
 </p>
 
 ---
 
 <p align="center">
-  🐶 <b>Thanks for stopping by! Let's connect on Linkedin!</b><br><br>
-  <a href="https://linkedin.com/in/mylena-avellar">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="27" />
-  </a>
+  🐶 <b>Thanks for stopping by! Let's connect on <a href="https://linkedin.com/in/mylena-avellar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" align="center" /></a></b>
 </p>
